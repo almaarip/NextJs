@@ -1,0 +1,22 @@
+{
+  "produk": [
+    {
+      "id": 1,
+      "namaproduk": "playstation 5",
+      "harga": "800000",
+      "quantity": "5"
+    },
+    {
+      "id": 2,
+      "namaproduk": "Playstation 4",
+      "harga": "6000000",
+      "quantity": "2"
+    },
+    {
+      "id": 3,
+      "namaproduk": "Playstation 3",
+      "harga": "5000000",
+      "quantity": "2"
+    }
+  ]
+}
